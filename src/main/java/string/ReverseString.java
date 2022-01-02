@@ -1,4 +1,4 @@
-package com.example.string;
+package string;
 
 public class ReverseString {
 
